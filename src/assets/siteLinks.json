@@ -3,7 +3,7 @@
     {
       "icon": "Blog",
       "name": "博客",
-      "link": "https://blog.imsyy.top/"
+      "link": "https://xmelon.cafe/"
     },
     {
       "icon": "Cloud",
@@ -13,7 +13,7 @@
     {
       "icon": "CompactDisc",
       "name": "音乐",
-      "link": "https://music.imsyy.top/"
+      "link": "https://music.xmelon.cafe/"
     },
     {
       "icon": "Compass",
@@ -35,7 +35,7 @@
     {
       "icon": "LaptopCode",
       "name": "站点监测",
-      "link": "https://status.imsyy.top/"
+      "link": "https://status.xmelon.cafe/"
     }
   ]
 ]
