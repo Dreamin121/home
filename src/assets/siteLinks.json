@@ -22,8 +22,8 @@
     },
     {
       "icon": "Book",
-      "name": "网址集",
-      "link": "https://web.imsyy.top/"
+      "name": "个人笔记",
+      "link": "https://note.xmelon.cafe/"
     },
     {
       "icon": "LaptopCode",
@@ -32,6 +32,10 @@
     }
   ],
   [
-    
+    {
+      "icon": "Reference",
+      "name": "备忘录",
+      "link": "https://re.xmelon.cafe/"
+    }
   ]
 ]
