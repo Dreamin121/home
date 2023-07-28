@@ -17,8 +17,8 @@
     },
     {
       "icon": "Compass",
-      "name": "剪切板",
-      "link": "http://cliper.xmelon.cafe:9501/"
+      "name": "小瓜田地",
+      "link": "http://web.xmelon.cafe/"
     },
     {
       "icon": "Book",
@@ -36,6 +36,11 @@
       "icon": "Asterisk",
       "name": "备忘录",
       "link": "https://re.xmelon.cafe/"
+    },
+    {
+      "icon": "Cliper",
+      "name": "剪切板",
+      "link": "http://cliper.xmelon.cafe:9501/"
     }
   ]
 ]
